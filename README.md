@@ -35,13 +35,13 @@ When present, output JSON to the client with this shape: { name: "name provided"
 
 
 Heroku app link:
-
+https://lab2-401-express.herokuapp.com/
 
 GitHub actions link:
-
+https://github.com/Batoolayyad/basic-express-server/actions
 
 Pull Rrequest link:
-
+https://github.com/Batoolayyad/basic-express-server/pull/1
 
 
 ## UML
